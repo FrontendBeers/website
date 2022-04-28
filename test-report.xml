@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+    <testsuite name="component/Title/Title.test.tsx" timestamp="2022-04-14T17:50:29.847Z" hostname="FRL-Q6R0H6G7NY" tests="1" failures="0" errors="0" skipped="0" time="0.0250000000">
+        <testcase classname="component/Title/Title.test.tsx" name="Title &gt; renders title correctly" time="0.0250000000">
+            <system-err>
+Warning: The current testing environment is not configured to support act(...)
+Warning: The current testing environment is not configured to support act(...)
+
+            </system-err>
+        </testcase>
+    </testsuite>
+</testsuites>
